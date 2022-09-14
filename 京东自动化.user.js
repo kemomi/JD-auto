@@ -4,7 +4,7 @@
 // @version     0.1.0
 // @icon        https://bean.m.jd.com/favicon.ico
 // @description 在任意jd.com页面按下alt+A, 实现页面签到领金币钢镚等功能. 部分功能已实现自动化, 少部分需要手动签到.
-// @author      Ahaochan
+// @author      kemomi
 // @include     http://jd.com
 // @license     GPL-3.0
 // @supportURL  https://github.com/kemomi/Tampermonkey
